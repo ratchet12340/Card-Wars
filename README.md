@@ -14,8 +14,11 @@ Since the game does not have much content, this section will be small :-).
 
 ## Requirements
 To run just the JAR file:
+
 JRE 8 or above
+
 To download the code and compile it yourself:
+
 JDK 8 or above
 
 ## Installation
