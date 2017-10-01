@@ -1,0 +1,59 @@
+Game.class:
+-will contain both states (and more to come maybe):
+	-main menu
+	-playing actual game
+-game class will have:
+	-thread
+	-canvas/jframe
+	-screen
+	-etc
+	
+-state classes will merely contain the data pertaining to that state, and will have separate render func.
+==============================================
+MainMenuState:
+-title sprite
+-a bunch of buttons with text on them
+-on button enter, can change font color maybe
+-on button exit, return to white
+-on button perform, switch game state
+================================================
+TODO (for 7/21/16):
+-hook up keyboard with event system
+-use new event system with main menu
+-fix up deck ui/add turns
+================================================
+TODO (for 7/22/16):
+-add turn system
+-add combat
+===============================================
+turn functionality:
+-on playing state activation, start a turn
+-play animation: 'your turn'
+-entity can only be moved once; entity will contain flag 'used'
+	-based on flag status, render dark or normal sprite
+-every update loop check if end turn button has been pressed
+-if it has, end turn
+===============================================
+todo feature list:
+-combat system
+	-dividing entities into player/opponent lists
+	-displaying health values
+-enemy ai
+-add more sounds!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

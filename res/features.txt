@@ -1,0 +1,6 @@
+-made from scratch in java, no apis, no libraries, just java2d and swing
+-pixel blending
+-spritesheet loading
+-event/layer system for processing user events
+-user interface infrastructure from scratch
+-
