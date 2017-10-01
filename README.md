@@ -1,3 +1,5 @@
+![CardWars Logo](/res/title_screen.png)
+
 # Card Wars!
 This was a summer project done in the summer of 2016. It is based on Advance Wars, a often forgotten GBA series based on tactical gameplay. I enjoyed the series as a kid and wanted to develop my own weaker iteration :-).
 
