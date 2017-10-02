@@ -9,6 +9,7 @@ The game is far from completion (completion being the way I would like the game 
 ## How To Play
 Since the game does not have much content, this section will be small :-).
 * WASD/Arrow Keys to navigate the main menu/map
+* Spacebar is the 'select' button i.e. select a button on the main menu
 * Click the deck to draw a card
 * Click the card and an appropriate tile to place it
 * Click the end turn button to allow the AI to take a turn
