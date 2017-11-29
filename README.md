@@ -23,6 +23,7 @@ JRE 8 or above
 To download the code and compile it yourself:
 
 JDK 8 or above
+Maven
 
 ## Installation
 You can use the code above to compile it on your own machine, or download the JAR file [here](https://www.dropbox.com/s/0pc8oyj9pqs79ui/Card%20Wars.jar?dl=0). Once downloaded, simply run it.
