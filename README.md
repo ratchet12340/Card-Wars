@@ -26,3 +26,8 @@ JDK 8 or above
 
 ## Installation
 You can use the code above to compile it on your own machine, or download the JAR file [here](https://www.dropbox.com/s/0pc8oyj9pqs79ui/Card%20Wars.jar?dl=0). Once downloaded, simply run it.
+
+If you prefer to compile the code on your own machine, you will need Maven installed. Once you have cloned this repository (with git clone https://github.com/ratchet12340/Card-Wars.git or otherwise), cd into the directory (should be Card-Wars). Now, type 
+```mvn package```
+and Maven will build the project. To run, cd into the newly created 'target' directory. Then, type 
+```java -jar cardwars-1.0-SNAPSHOT.jar```
